@@ -91,3 +91,13 @@ button {
     
 }
 
+.formulario2{
+    position: fixed;
+    top: 40px;
+    width: 400px;
+    height: 50%;
+    z-index: 3;
+    left: -50%;
+    transition: 1.5s;
+    
+}
